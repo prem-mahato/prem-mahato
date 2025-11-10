@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prem Kumar Mahato
 
-🎯 **Rigging Artist** | 🐍 Python Tool Developer | 🎥 Rigging Automation Specialist
+🎯 **Rigging TD** | 🐍 Python Tool Developer | 🎥 Rigging Automation Specialist
 
 ---
 
