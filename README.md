@@ -8,7 +8,7 @@
 
 - 🔧 I build automation tools for Maya using Python
 - 🎮 Passionate about rigging, pipeline scripting, and animation workflows
-- 🛠️ 4.5+ years of experience in freelance + studio work
+- 🛠️ 5+ years of experience in freelance + studio work
 - 🌍 Open to relocation | Actively looking for Rigger / Pipeline TD roles
 
 ---
